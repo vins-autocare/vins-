@@ -71,29 +71,3 @@ h4 {
 }
 
 
-.table img {
-    border-radius: 10%;
-    transition: transform 0.3s ease;
-}
-
-.table img:hover {
-    transform: scale(1.10);
-}
-
-
-div img {
-    display: block;
-    margin: 5px  auto;
-    border-radius: 10px;
-}
-
-
-@media (max-width: 10px) {
-    .table-container {
-        flex-direction: column;
-        align-items: center;
-    }
-    .table {
-        width: 10%;
-    }
-}
