@@ -83,7 +83,7 @@ h4 {
 
 div img {
     display: block;
-    margin: 20px auto;
+    margin: 5px  auto;
     border-radius: 10px;
 }
 
@@ -94,6 +94,6 @@ div img {
         align-items: center;
     }
     .table {
-        width: 80%;
+        width: 30%;
     }
 }
